@@ -1,1 +1,2 @@
+added somemore text '
 this is test naruto keyword file on local repo on mac 
